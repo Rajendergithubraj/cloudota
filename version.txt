@@ -1,1 +1,2 @@
-const char* fallback_bin_url = "https://raw.githubusercontent.com/Rajendergithubraj/cloudota/main/firmware.bin";
+1.0.1
+https://jsdelivr.net
