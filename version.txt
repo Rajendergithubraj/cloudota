@@ -1,2 +1,2 @@
 3.0.1
-https://githubusercontent.com
+https://raw.githubusercontent.com/Rajendergithubraj/cloudota/main/firmware.bin
