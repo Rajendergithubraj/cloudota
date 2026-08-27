@@ -1,2 +1,2 @@
 3.0.1
-http://cdn.brainstak.com/firmware.bin
+http://cdn.jsdelivr.net/gh/Rajendergithubraj/cloudota@main/firmware.bin
